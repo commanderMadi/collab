@@ -1,0 +1,13 @@
+#container {
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-wrap: nowrap; }
+
+#container > div {
+  width: 25%;
+  margin: 2rem;
+  border-radius: 1rem;
+  background-color: #79edeb;
+  border-color: red;
+  padding: 30px; }

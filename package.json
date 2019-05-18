@@ -15,5 +15,7 @@
     "node-sass": "^4.12.0",
     "tar": "^4.4.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "animate.css": "^3.7.0"
+  }
 }
